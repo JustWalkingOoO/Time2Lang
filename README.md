@@ -49,6 +49,10 @@ Get trained VQVAE from [here](https://drive.google.com/drive/folders/1joTL46lzBX
 
 #### Step 3
 
+```shell
+cd ./inference/
+```
+
 Zero-shot Lab
 
 ```shell
