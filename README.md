@@ -1,13 +1,13 @@
 ## Time2Lang
 
-![Logo](./img/Logo.png)
+![Logo](./img/Logo.png#pic_center)
 
 Here is the code for the paper "Time2Lang: A Frequent-Pattern-Driven Translation Mechanism for Zero-Shot Time Series Forecasting with LLMs".
 
 ## Requirements
 
 - Python 3.10.16
-- Detail in `requirements.txt`
+- More details in `requirements.txt`
 
 ## Directory Structure
 
@@ -20,7 +20,7 @@ Here is the code for the paper "Time2Lang: A Frequent-Pattern-Driven Translation
 
 ## Dataset
 
-![dataset](./img/dataset.png)
+![dataset](./img/dataset.png#pic_center)
 
 You can get test data from [here](https://drive.google.com/drive/folders/1joTL46lzBXJEO0bmH4aLQ0mGIJR2d3oF?usp=sharing), then place it to `./inference/`
 
